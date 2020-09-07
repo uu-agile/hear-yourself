@@ -3,7 +3,7 @@
 ## Assignment Components
 * Team members: Contact phone numbers
   * Joseph Lyman: (801) 209-9883, cell
-  * Yusaf Alhawiti: 
+  * Yusaf Alhawiti: +966 54 503 1234, intl
 
 * Team leader: Joseph Lyman
 
