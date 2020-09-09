@@ -2,6 +2,11 @@
 
 Restoring individuality in the technological era by empowering the collective values of community to develop meaningful technology.
 
+## Visit one of our pages
+* [About Us](https://j-lyman.github.io/hear-yourself/About-Us
+* [Documents](https://j-lyman.github.io/hear-yourself/Google-Docs_Landing-Page)
+* [Team Journals](https://j-lyman.github.io/hear-yourself/Team-Journals_Landing-Page)
+
 ## The Problem
 
 The world is accelerating under the force of technological innovation. This acceleration has its birth in Enlightenment-Era Science and Philosophy, gains momentum with the drive and desire of scientists and entrepreneurs, and continues under a global effort to sustain its pace. With it came the lightbulb, the computer, the pacemaker, and the smartphone in your pocket. With it also came unrestrained and caustic influence of digitally-spread misinformation, pollution of the air we breathe with toxic by-products, nuclear warfare, and, we cannot forget, the massacuring and domination of millions of indigenous people and their cultures under a promise of adventure and advancement in the "New World." 
