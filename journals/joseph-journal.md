@@ -1,5 +1,34 @@
 # Joseph Lyman
 
+## September 9, 2020
+
+### Google Docs Landing Page
+
+Today I worked mostly on creating a landing page for our Google Documents. I added this to our webpage. I would like for the webpage to become the main "hub" for this project. This is where customers may suggest features, access meeting scheduling, observe design progress. This is where engineers can quickly navigate to any design-related documents, graphics, etc. This is where project managers, professors, and other stakeholders can check on progress/catch errors.
+
+The [webpage](https://j-lyman.github.io/hear-yourself/) is organized as follows:
+* Homepage (README.md) 
+ * About Us
+ * Documents (to google docs)
+ * Team Journals
+
+ I have not yet linked the journals. I want to make sure Yusaf is aware of this integration. I think
+ 
+ ### Organizing and Visualizing Progress
+ 
+ I also worked on the process and strategy behind assigning "cards" in the "Projects" Tab of GitHub. After exploring how to best utilize that feature, I have devised the following which is up for revision:
+ * Projects are used to track the progress of *sprints*. The duration of sprints may change, they are faster-moving and are used to digest the goals and objectives within each **milestone**. Sprints should also have deliverables.
+ * Milestones are used to track our progress through the Product Development Cycle. These are longer-term: Program Planning, Design & Verification, and Implementation. These can be defined in terms of deliverables. Milestones are identical to those used in ECE 4900. *Note:* Milestones are tracked in the "Issues" tab of GitHub, just to the left of "New Issue".
+ * Labels are used to track deliverables.
+ 
+ *When properly set to Automated* the Projects will automatically track Issues as new "cards" which are placed on a Kanban board. This is our workflow surrounding Issues, Projects, Milestones, Labels.
+ 1. *Project meetings* - We identify all **Issues** (action items) related to our current **Sprint**, assign those **Issues** to team members, and identify which deliverable (**Label**) they relate to.
+ 1. At the end of team meeting, we add these **Issues** in GitHub so that tracking will begin automatically
+ 1. When we individually start working on our assigned **Issues**, we must manually move the associated cards from "To-Do" to "In-Progress". This can be found in the "Projects" tab of GitHub.
+ 1. When we finish an **Issue**, we do not need to move the card into "Done". That **Issue** is closed by the assignee, and GitHub will automatically move the card to "Done"
+ 
+ In this way, the Projects tab will be the forefront of tracking progress of tasks as they relate to sprints. The Issues tab will be where we mostly interact with these tasks (because comments can be exchanged, discussions, etc. within an Issue). Also in the Issues tab we can observe the progress toward our current Milestone. 
+
 ## September 7, 2020
 
 Today Yusaf and I finished our first assignment for Senior Capstone class. We have a good, basic meeting organization that includes:
