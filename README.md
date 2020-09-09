@@ -4,5 +4,5 @@ Restoring individuality in the technological era by empowering the collective va
 
 ## Visit one of our pages
 * [About Us](https://j-lyman.github.io/hear-yourself/About-Us)
-* [Documents](https://j-lyman.github.io/hear-yourself/Google-Docs_Landing-Page)
+* [Documents](https://j-lyman.github.io/hear-yourself/Documents_Landing-Page)
 * [Team Journals](https://j-lyman.github.io/hear-yourself/Team-Journals_Landing-Page)
