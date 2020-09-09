@@ -26,9 +26,9 @@
 
 * Task Management: GitHub Projects (Automated Kanban Style)... Other communications through Discord
 
-* Central Location for all documentation: [GitHub Documents Landing Page](https://github.com/j-lyman/hear-yourself/Documents_Landing-Page)
+* Central Location for all documentation: [GitHub Documents Landing Page](https://j-lyman.github.io/hear-yourself/Documents_Landing-Page)
   * Includes links to Markdown documents, or Google Docs, etc.
-  * Also note the [homepage](https://github.com/j-lyman/hear-yourself/
+  * Also note the [homepage](https://j-lyman.github.io/hear-yourself/)
 
 * Course Feedback Sessions (ECE 4900)
   * Individual Design Review: **Tuesday, October 6 (1:00 p.m.)**
