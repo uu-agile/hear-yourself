@@ -1,5 +1,27 @@
 # Joseph Lyman
 
+## September 10, 2020
+
+**SCRUM Meeting, Duration: 8 Minutes**
+* What I did yesterday.
+
+I reveiwed our Assignment 2 document, and converted my action items to Issues in GitHub. Two action items that I have since added are Project Definition Statement and Risk Management Plan. I finished the Definition Statement yesterday.
+
+* What I will do today.
+
+I have decided that, with 10 open issues, if I finish 3 each day I can complete by Sunday. Today I will work towards ID risks and suggesting a RMP
+1. Outline factors which could change our project (scope, features, etc)
+1. Summarize the associated risks in terms of their impacts, triggers, and our response.
+1. Describe imapcts to our schedule.
+
+* What is standing in my way.
+
+I cannot think of anything.
+
+We will take tomorrow off and meet again for SCRUM meetings Saturday and Sunday both at 11:00 A.M.
+
+
+
 ## September 9, 2020
 
 **At the end of this sprint, we should answer in reflection:**
