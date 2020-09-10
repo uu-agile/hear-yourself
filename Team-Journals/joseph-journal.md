@@ -1,0 +1,57 @@
+# Joseph Lyman
+
+## September 9, 2020
+
+### Google Docs Landing Page
+
+Today I worked mostly on creating a landing page for our Google Documents. I added this to our webpage. I would like for the webpage to become the main "hub" for this project. This is where customers may suggest features, access meeting scheduling, observe design progress. This is where engineers can quickly navigate to any design-related documents, graphics, etc. This is where project managers, professors, and other stakeholders can check on progress/catch errors.
+
+The [webpage](https://j-lyman.github.io/hear-yourself/) is organized as follows:
+* Homepage (README.md) 
+ * About Us
+ * Documents (to google docs)
+ * Team Journals
+
+ I have not yet linked the journals. I want to make sure Yusaf is aware of this integration. I think
+ 
+ ### Organizing and Visualizing Progress
+ 
+ I also worked on the process and strategy behind assigning "cards" in the "Projects" Tab of GitHub. After exploring how to best utilize that feature, I have devised the following which is up for revision:
+ * Projects are used to track the progress of *sprints*. The duration of sprints may change, they are faster-moving and are used to digest the goals and objectives within each **milestone**. Sprints should also have deliverables.
+ * Milestones are used to track our progress through the Product Development Cycle. These are longer-term: Program Planning, Design & Verification, and Implementation. These can be defined in terms of deliverables. Milestones are identical to those used in ECE 4900. *Note:* Milestones are tracked in the "Issues" tab of GitHub, just to the left of "New Issue".
+ * Labels are used to track deliverables.
+ 
+ *When properly set to Automated* the Projects will automatically track Issues as new "cards" which are placed on a Kanban board. This is our workflow surrounding Issues, Projects, Milestones, Labels.
+ 1. *Project meetings* - We identify all **Issues** (action items) related to our current **Sprint**, assign those **Issues** to team members, and identify which deliverable (**Label**) they relate to.
+ 1. At the end of team meeting, we add these **Issues** in GitHub so that tracking will begin automatically
+ 1. When we individually start working on our assigned **Issues**, we must manually move the associated cards from "To-Do" to "In-Progress". This can be found in the "Projects" tab of GitHub.
+ 1. When we finish an **Issue**, we do not need to move the card into "Done". That **Issue** is closed by the assignee, and GitHub will automatically move the card to "Done"
+ 
+ In this way, the Projects tab will be the forefront of tracking progress of tasks as they relate to sprints. The Issues tab will be where we mostly interact with these tasks (because comments can be exchanged, discussions, etc. within an Issue). Also in the Issues tab we can observe the progress toward our current Milestone. 
+
+## September 7, 2020
+
+Today Yusaf and I finished our first assignment for Senior Capstone class. We have a good, basic meeting organization that includes:
+* weekly team meetings
+* weekly advisor meetings (which alternate bi-weekly between Jon Davies and Paul White)
+* daily SCRUM meetings
+
+I think the most difficult part will be learning GitHub fast enough that we are able to leverage its functionalities to the fullest potential. I am confident that this challenge will not be too much of a blockade, since Yusaf and I are already learning quickly about how to use GitHub.
+
+I have also created a Discord server for the project. I think this would ideally be a great way for users and engineers to interact with the project/each other whenever. I have organized the roles as follows:
+* admin - the only role which may make changes to the server
+* engineers - have access to team communications
+* users - have access to everything except team communications
+
+We can only see how strongly this is utilized once the project is underway. It was quick to create, and potentially useful.
+
+**Some things to remember**
+* **We are *Agile*... we are NOT confined to one workflow, team management scheme, communication platform**
+* **Do not rush into design or implementation. The Systems Engineering framework is there to digest the project thoughtfully**
+* **I want to develop the project's website more.**
+  * right now, we have a basic high-level overview of the project.
+  * I would like this website to be the easiet way for Yusaf and I to navigate the project's documents, and an approachable way for the public to observe and track our progress.
+  * I like [this project's page](https://prodfreebies.github.io/)
+  * Add: link to project journals
+  * Add: Link to Documents landing page
+  * Add: link to Discord server
