@@ -2,6 +2,22 @@
 
 ## September 9, 2020
 
+**At the end of this sprint, we should answer in reflection:**
+1. Was the use of GH "Projects" to track Sprint progress effective?
+1. Was the use of GH "Milestones" to track Milestone progress effective?
+1. What did we think about the labels? Could they be used more constructively?
+1. Were there any features about the Task Management process that could be added/improved?
+1. What was your biggest barrier/slowdown this sprint?
+1. Overall, what can we change about the way we plan/execute/track a Sprint? Will this change with feedback inputs?
+
+Today my main achievement was to convert my action items as outlined in today's team meeting to Issues in GitHub. This was ultimately very helpful for realizing the level of work to be done and putting it into perspective, because it gives me a simple task to do while my mind can wander on those action items and how I might respond.
+
+I found that the easiest way to convert was to create a separate Word document where I will write the text blocks associated with each action time, breaking them into chunks that I would generally say take anywhere from 15 minutes to an hour. Although at this moment, it seems pretty arbitraty to define.
+
+It is diffucult to marry the complexity of action items to the duration of the sprint/magnitude of the deliverable. There should be an optimum balance between information tranparency and simplicity.
+
+It seems that one added benefit of this process is that Yusaf and I are able to leverage our own work strategies and organization practices. So long as we can transparently display our progress, systematic coherency is possible. In a way, this enables a self-regulatory response to the issue described above. 
+
 In order to give Yusaf admin capabilities, I forked the "hear-yourself" project from my personal account and it is now associated with an organization, "uu-agile." The task management methods that I devised yesterdays still apply. I demonstrated this workflow to Yusaf and we agreed that we will use it for one week with a *trial sprint*.
 
 This trial sprint will have the Project Overview as deliverable (Due Monday, Spetember 14th **by 5:00 P.M.**) and tasks that we outlined in our [Assignment 2](https://docs.google.com/document/d/1_UEt8V5hJuX-R8StRv7V6QATfcV-3DKuZ1dPLVP2kH4/edit?usp=sharing) document. Tomorrow we begin with our first SCRUM meeting. The SCRUM meeting will only be 5 minutes long, and each member must briefly state:
