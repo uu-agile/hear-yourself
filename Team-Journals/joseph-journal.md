@@ -2,11 +2,27 @@
 
 ## September 9, 2020
 
+In order to give Yusaf admin capabilities, I forked the "hear-yourself" project from my personal account and it is now associated with an organization, "uu-agile." The task management methods that I devised yesterdays still apply. I demonstrated this workflow to Yusaf and we agreed that we will use it for one week with a *trial sprint*.
+
+This trial sprint will have the Project Overview as deliverable (Due Monday, Spetember 14th **by 5:00 P.M.**) and tasks that we outlined in our [Assignment 2](https://docs.google.com/document/d/1_UEt8V5hJuX-R8StRv7V6QATfcV-3DKuZ1dPLVP2kH4/edit?usp=sharing) document. Tomorrow we begin with our first SCRUM meeting. The SCRUM meeting will only be 5 minutes long, and each member must briefly state:
+1. What I did yesterday.
+1. What I will do today.
+1. What is standing in my way.
+
+When we finished our team meeting today, we decided that the answer to "What I did yesterday" will be to convert our action items (as outlined in Assignment 2) to "Issues" that may be utilized within our task management workflow. The answer to "What I will do today" depends on those action items as assigned to us and what we have time for. I'm not sure at this moment that anything is standing in our way.
+
+However, I do feel some things uncomfortable already:
+1. The integration with GitHub to Discord is annoying and not very useful. I was making frequent changes and was being bombarded with notifications as I made them. This is not a bad thing, but I was not finding it useful. I especialy think that if we want the Discord server to become a hub for feedback from our stakeholders that we should make all notifications meaningful... As a team, the notifications could be more intense, but I really want to focus on *graphical* task management. It would be nice to be able to check with one glance the progress of our current sprint, milestone, and Kanban board.
+1. I am finding it somewhat cumbersome to deal with the webpage as a hub. I forget the URL, it changed a bunch since I forked the repository, etc. But now I *hope* the repository details are somewhat fixed. To combat the cumbersomeness, I have added the project webpage as the default starting point when I open my browser.
+1. I like that the webpage files are stored in a separate branch, "gh-pages," but it is already tricky for me to assign scope. I mean that the main repository should have documents such as team journals, etc. BUT I had to move these into "gh-pages" branch to get them to display as webpages. **Perhaps I can find a way to display 'main' files even if the webpage is hosted from "gh-pages"???**
+
+## September 8, 2020
+
 ### Google Docs Landing Page
 
 Today I worked mostly on creating a landing page for our Google Documents. I added this to our webpage. I would like for the webpage to become the main "hub" for this project. This is where customers may suggest features, access meeting scheduling, observe design progress. This is where engineers can quickly navigate to any design-related documents, graphics, etc. This is where project managers, professors, and other stakeholders can check on progress/catch errors.
 
-The [webpage](https://j-lyman.github.io/hear-yourself/) is organized as follows:
+The [webpage](https://uu-agile.github.io/hear-yourself/) is organized as follows:
 * Homepage (README.md) 
  * About Us
  * Documents (to google docs)
