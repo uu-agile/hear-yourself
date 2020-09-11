@@ -1,5 +1,11 @@
 # Joseph Lyman
 
+## September 11, 2020
+
+I am having trouble keeping up with my tasks. I have a tendency to over-design/over-think, so I am finding myself spending hours researching just *just risk factors* alone.
+    * I think a much better approach is to quickly accomplish tasks **with the goal of a minimally-functional solution**
+    * This is in fact one of the principles of Agile...makes sense :)
+
 ## September 10, 2020
 
 Ooh you can filter Kanban boards by assignee name: "assignee:j-lyman"
