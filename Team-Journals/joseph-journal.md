@@ -24,7 +24,13 @@ We will take tomorrow off and meet again for SCRUM meetings Saturday and Sunday 
 
 
 
+
 ## September 9, 2020
+
+We decided on *three global milestones*:
+1. Integrated Management Plan
+1. Design & Testing
+1. Implementation & Reflection
 
 **At the end of this sprint, we should answer in reflection:**
 1. Was the use of GH "Projects" to track Sprint progress effective?
