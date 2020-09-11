@@ -5,6 +5,8 @@
 I am having trouble keeping up with my tasks. I have a tendency to over-design/over-think, so I am finding myself spending hours researching just *just risk factors* alone.
     * I think a much better approach is to quickly accomplish tasks **with the goal of a minimally-functional solution**
     * This is in fact one of the principles of Agile...makes sense :)
+    
+*Note: We may want to put the DUE DATE in our Sprint title of GitHub*
 
 ## September 10, 2020
 
