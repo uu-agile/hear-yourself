@@ -2,6 +2,8 @@
 
 ## September 10, 2020
 
+Ooh you can filter Kanban boards by assignee name: "assignee:j-lyman"
+
 **SCRUM Meeting, Duration: 8 Minutes**
 * What I did yesterday.
 
