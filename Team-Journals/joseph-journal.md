@@ -1,5 +1,15 @@
 # Joseph Lyman
 
+## September 13, 2020
+
+**SCRUM Meeting**
+1. What I did yesterday.
+I finished summarizing risks in terms of triggers, impacts, and responses. I started describing standard SE processes and the product development process. I have been working on defining my individual milestones.
+1. What I will do today.
+I will finish a lot. I plan to finish a discussion on the benefits of Agile including its social implications. I plan to reate the block diagram of our process & platform. I will finish a description of how to adjust schedule and budget according to our risks.
+1. What is standing in my way.
+Still, I am finding myself over-fulfilling each task. I need to get more comfortable producing the minimally functional solution.
+
 ## September 12, 2020
 
 It is difficult to come up with appropriate responses to risk factors. Sometimes I come up with a response and it seems more like something to do now in anticipation rather than as a response to the risk as it arises... *Is that the point?*
