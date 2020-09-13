@@ -1,5 +1,9 @@
 # Joseph Lyman
 
+## September 12, 2020
+
+It is difficult to come up with appropriate responses to risk factors. Sometimes I come up with a response and it seems more like something to do now in anticipation rather than as a response to the risk as it arises... *Is that the point?*
+
 ## September 11, 2020
 
 I am having trouble keeping up with my tasks. I have a tendency to over-design/over-think, so I am finding myself spending hours researching just *just risk factors* alone.
