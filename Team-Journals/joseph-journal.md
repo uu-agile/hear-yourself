@@ -1,5 +1,11 @@
 # Joseph Lyman
 
+## September 16, 2020
+
+Today we had our first customer meeting. We introduced the project from its socio-political implications of restoring human modes of interaction with shaping the world they live in.
+
+Through a conversation with customers we identified a particular technological direction, is driven by the desire to add flexibility in modern DJ'ing. See the details [here](https://uu-agile.github.io/hear-yourself/CRM1).
+
 ## September 13, 2020
 
 **SCRUM Meeting**
