@@ -1,13 +1,6 @@
 # Assignment 1 - Team Information and Scheduling
 
 ## Assignment Components
-* Team members: Contact phone numbers
-  * Joseph Lyman: (801) 209-9883, cell
-  * Yusaf Alhawiti: +966 54 503 1234, intl (Cell and whatsapp)
-
-* Team leader: Joseph Lyman
-
-* Faculty Advisor: Jon Davies
 
 * Meeting schedule and location
   * SCRUM Meetings: MoTuWeTh
