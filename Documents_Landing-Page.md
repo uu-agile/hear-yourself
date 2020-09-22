@@ -5,6 +5,9 @@ This landing page contains documentation links relevant to the hear-yourself pro
 * [Assignment #1 - Team Information and Scheduling (Notes)](https://uu-agile.github.io/hear-yourself/Assignment-Notes/Assignment-1_Notes)
 * [Assignment #2 - Project Overview](https://docs.google.com/document/d/1-_kNdi7-OWTZVTe0OQKmf28vq7AZkb_5JiGtElK6T1A/edit?usp=sharing)
 
+## Management & Planning
+* [Integrated Management Plan (IMP)](https://docs.google.com/document/d/1vNBS57NfIdQJw6IdB_8jK964PH2kwvogqWyOrpQWCBk/edit?usp=sharing)
+
 ## Source Documents
 [none]
 
