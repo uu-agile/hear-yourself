@@ -1,5 +1,5 @@
 # Documents Landing Page
-This landing page contains documentation links relevant to the [Hear Yourself Project](https://uu-agile.github.io/hear-yourself/). Documents are organized according to their scope.
+This landing page contains documentation links relevant to the hear-yourself project. Documents are organized according to their scope.
 
 ## Class Assignments
 * [Assignment #1 - Team Information and Scheduling (Notes)](https://uu-agile.github.io/hear-yourself/Assignment-Notes/Assignment-1_Notes)
