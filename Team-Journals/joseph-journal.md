@@ -36,7 +36,7 @@ More specific comments can be found in the [Initial Requriements Outline](https:
 
 ## September 29, 2020 - Customer Review Meeting #2
 
-During this last sprint, we took the original features that we had identified with the customer and mapped them into requirements. These requirements are summarized in the [Inital Requirements Outline](https://docs.google.com/document/d/1bQqTBTZVdF1-LQCF3sIWCffZA2er5Wri69iT8PXGsEc/edit).
+During this last sprint, we took the original features that we had identified with the customer and mapped them into requirements.During this Customer Review Meeting, we discussed these requirements with the customer to refine them into agreement among all stakeholders. These requirements are summarized in the [Inital Requirements Outline](https://docs.google.com/document/d/1bQqTBTZVdF1-LQCF3sIWCffZA2er5Wri69iT8PXGsEc/edit), and will be continued to be refined through further sprints/feedback.
 
 ## September 16, 2020 - Customer Review Meeting #1
 
