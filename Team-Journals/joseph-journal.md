@@ -1,6 +1,38 @@
 # Joseph Lyman
 
-## September 16, 2020
+## October 6, 2020 - Individual Presentation Feedback/Requirements Research Areas
+
+### Individual Presentation Feedback
+Items to fix in our Individual Design Presentations/*also applicable to Project Overview*
+1. Put Advisors on Title Slide
+1. Acknowledge our customers
+1. Include a final slide with images of the team/contact info
+
+Tips for presentations
+1. Sticky note by camera to encourage you to look at it.
+
+Items to Improve on
+1. It is still confusing what the division of responsibility is in the project. **create a clear, concise diagram to depict this**. Dr. Rasmussen's suggestion is to update the high-level block diagram with indicators of which subsystem is under whose responsibility. We may even relate this to our existing team diagram
+
+### Requirements Research Areas
+
+We took the requirements feedback from advisors (October 5th) and developed a list of research areas which will further develop these requirements more specifically **to be unambiguous and testable**. These research areas are summarized in our [Requirements Research Objectives](https://docs.google.com/document/d/1mivIBVqfgy0YCjiVbYlZA_OXDGn95niegF6tkLaUonk/edit?usp=sharing).
+
+Another note is that we previously realized our original division of responsibility was premature and not evenly distributed in work load. We are thinking that, by organizing the requirements into distinct groups, that these categories will become a *new* set of responsibilities that are more evenly distributed.
+
+## October 5, 2020 - Requirements Feedback from Advisors
+
+Today, we met to review comments that our Technical and Faculty advisors offered on our Requirements Outline from the last sprint. The most prominent feedback stems from a lack of technical knowledge on our part. So, *it should be our priority in the net sprint to flush out technical ambiguities*. More general notes are
+* **All requirements should be testable**
+* **Requirements are still ambiguous and need to be further refined. Further research will uncover more requirements**
+
+More specific comments can be found in the [Initial Requriements Outline](https://docs.google.com/document/d/1bQqTBTZVdF1-LQCF3sIWCffZA2er5Wri69iT8PXGsEc/edit?usp=sharing)
+
+## September 29, 2020 - Customer Review Meeting #2
+
+During this last sprint, we took the original features that we had identified with the customer and mapped them into requirements. These requirements are summarized in the [Inital Requirements Outline](https://docs.google.com/document/d/1bQqTBTZVdF1-LQCF3sIWCffZA2er5Wri69iT8PXGsEc/edit).
+
+## September 16, 2020 - Customer Review Meeting #1
 
 Today we had our first customer meeting. We introduced the project from its socio-political implications of restoring human modes of interaction with shaping the world they live in.
 
