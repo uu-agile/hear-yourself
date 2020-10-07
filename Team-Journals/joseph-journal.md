@@ -1,6 +1,12 @@
 # Joseph Lyman
 
-## October 6, 2020 - Individual Presentation Feedback/Requirements Research Areas
+## October 7, 2020 - Start of Sprint 3
+
+Last time we cleaned up the tasks that were on Sprint 2, removing those which our industry advisor Paul identified as unnecessary at this moment in time. 
+
+Today, I created a new project Kanban board for Sprint 3, and realized that perhaps what we should have done was *not* made any changes to Sprint 2 project, but instead create this new one for Sprint 3... That way, we can visually see in the GitHub Project tab that we had unfinished tasks in Sprint 2, which were left uncomplete because they were low priority at that time. This may be something to keep in mind moving forward, that **it may actually be helpful to keep as much information as possible** rather than deleting anything. We create a new sprint project and move forward, but can look back when it is relevant to see exactly what we had set aside!
+
+## October 6, 2020 - Individual Presentation Feedback/Requirements Research Areas for Sprint 3
 
 ### Individual Presentation Feedback
 Items to fix in our Individual Design Presentations/*also applicable to Project Overview*
