@@ -1,6 +1,8 @@
-## For Authorized Stakeholders
+## Comprehensive Project Folder
 *Note: This Google Drive folder is restricted access. To gain access, you must request access and we will promptly review your request. Materials listed elsewhere on the webpage are available with unrestricted access.*
-* [Comprehensive Project Folder](https://drive.google.com/drive/folders/1S-Ya9vuW1Q_aRvDK5_p_ShfpLkMLncKA?usp=sharing)
+* [Systems Engineering Project Folder](https://drive.google.com/drive/folders/1S-Ya9vuW1Q_aRvDK5_p_ShfpLkMLncKA?usp=sharing)
+
+## Explore our Project
 
 * [Get Involved](https://uu-agile.github.io/hear-yourself/Get-Involved)
 * [About Us](https://uu-agile.github.io/hear-yourself/About-Us)
