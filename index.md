@@ -1,12 +1,12 @@
+## For Authorized Stakeholders
+*Note: This Google Drive folder is restricted access. To gain access, you must request access and we will promptly review your request. Materials listed elsewhere on the webpage are available with unrestricted access.*
+* [Comprehensive Project Folder](https://drive.google.com/drive/folders/1S-Ya9vuW1Q_aRvDK5_p_ShfpLkMLncKA?usp=sharing)
+
 * [Get Involved](https://uu-agile.github.io/hear-yourself/Get-Involved)
 * [About Us](https://uu-agile.github.io/hear-yourself/About-Us)
 * [Learning Resources](https://uu-agile.github.io/hear-yourself/Resources_Landing-Page)
 * [Design Documents](https://uu-agile.github.io/hear-yourself/Documents_Landing-Page)
 * [Team Journals](https://uu-agile.github.io/hear-yourself/Team-Journals_Landing-Page)
-
-## For Authorized Stakeholders
-*Note: This Google Drive folder is restricted access. To gain access, you must request access and we will promptly review your request. Materials listed elsewhere on the webpage are available with unrestricted access.*
-* [Comprehensive Project Folder](https://drive.google.com/drive/folders/1S-Ya9vuW1Q_aRvDK5_p_ShfpLkMLncKA?usp=sharing)
 
 ## Project Headlines
 
