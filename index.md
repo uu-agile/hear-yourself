@@ -9,7 +9,7 @@
 * [Design Documents](https://uu-agile.github.io/hear-yourself/Documents_Landing-Page)
 * [Team Journals](https://uu-agile.github.io/hear-yourself/Team-Journals_Landing-Page)
 * [About Us](https://uu-agile.github.io/hear-yourself/About-Us)
-* [Can Technology be Racist?](https://uu-agile.github.io/hear-yourself/Racism-In-Technology)
+* [Can Technology be Racist?](https://uu-agile.github.io/hear-yourself/Racism-In-Technology_Landing-Page)
 
 ## Project Headlines
 
