@@ -1,5 +1,30 @@
 # Joseph Lyman
 
+## October 13, 2020 - Technical Advisor Meeting: Incorporating Subcontractor and Prioritizing Requirements
+
+### Incorporating Subcontractor
+We discussed with Mr. Paul white on how to incorporate a third party into our project, another student who will be focusing specifically on the Power System Design. The main points of this discussion were:
+1. It is of utmost important to establish a **Subcontractor Statement of Work**.
+1. It is especially important with a subcontractor to **have complete, fully-specified requirements** that are clearly relevant to the statement of work
+1. Establish **milestones** which coincide with the progress necessary for successful project
+1. It is appropriate to use **ranges** in place of fully-specified requiremenents; if you expect that requirement to change or need flexibility in the subcontractor's design.
+
+Some more finer details we discussed were the specific relationship of the subcontractor in the project. We are serving as the project engineers, who have direct and utmost responsibility with the customer. We are held accountable for any and all work, including that of the subcontractor. For that reason, the Statement of Work is extremely critical to success. To the subcontractor, we are their customer and the statement of work must serve to **clearly outline the scope of their work** including a schedule and standards of work. We must decide to either provide the subcontractor with the freedom to develop their own process for completing the work, or that may be defined by the Statement of Work. In either case, **it is important to clearly communicate and agree upon the process**. Even if the subcontractor is working on their own process, this should be documented and agreed upon.
+
+If a requirement which has been handed off to the subcontractor changes, we must:
+1. notify the individual
+1. get feedback from the subcontractor in terms of expected schedule change or cost change
+1. Decide if the change is worth it
+
+It is important that, as the one making changes, we offer flexibility for the subcontractor to absorb that change. If the subcontractor is requesting change, it is at our discretion whether or not to offer flexibility. 
+
+### Prioritizing Requirements
+
+According to the customer, each requirement should be given a priorty ranking according to a proper scale (1-5, least-most priority). It is then our job to devise a scheme for determining the complexity of the requirement: How long will it take to complete the associated work? This question can be answered by a weight factor (0-1 most-least complexity), then an **absolute priority** is obtained by multiplying the priority by the weight factor. 
+e.g. if a requirement is of utmost priority to the customer, but impossibly complex, the absolute priority = 5*0 = 0, and will be near the bottom of the rankings.
+
+If something like in this example occurs, that is the customer has high priority, but the requirement is very demanding on the development team, we can account for this with the absolute priority and communicate this concern to the customer. One possiblity is that, if the requirement can be broken down further, the corresponding physical component can be broken into smaller pieces that, collectively, take a long time to complete, but are individually digestable within our capability.
+
 ## October 7, 2020 - Start of Sprint 3
 
 Last time we cleaned up the tasks that were on Sprint 2, removing those which our industry advisor Paul identified as unnecessary at this moment in time. 
