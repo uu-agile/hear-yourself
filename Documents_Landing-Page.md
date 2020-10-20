@@ -11,6 +11,10 @@ This landing page contains documentation links relevant to the hear-yourself pro
 
 ## Requirements Definition
 * [Requirements Outline](https://docs.google.com/document/d/1bQqTBTZVdF1-LQCF3sIWCffZA2er5Wri69iT8PXGsEc/edit?usp=sharing)
+* [Requirements Research Objectives](https://docs.google.com/document/d/1mivIBVqfgy0YCjiVbYlZA_OXDGn95niegF6tkLaUonk/edit?usp=sharing)
+
+## Knowledge Resources
+* [Organized Collection of Resource Links](https://docs.google.com/document/d/1scSQkm4J0p8yYuwGKb1IN-z25WhnOuiWxIAnqBlWEgE/edit?usp=sharing)
 
 
 ## Management & Planning
@@ -20,7 +24,6 @@ This landing page contains documentation links relevant to the hear-yourself pro
 
 ## User Needs
 [none]
-
 
 ## Architecture Definition
 [none]
