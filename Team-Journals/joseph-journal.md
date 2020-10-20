@@ -1,5 +1,74 @@
 # Joseph Lyman
 
+## October 19, 2020 - Faculty Advisor Meeting: Subcontractor Comments, Requirements Feedback, Research Suggestions, Modeling Suggestions
+
+### Subcontractor Comments
+
+* Do not let things get too complex, so that incorporating a Subcontractor detracts from our original plan. 
+* Focus on creating:
+   * A letter of understanding
+   * Systems-level description of interfaces between our work and Subcontractor work. Minimize these to basic interfaces
+* Do **not** provide a recipe, but rather a list of expectations
+* Identify the specific subsystem for the Subcontractor work to focus on.
+* Do **not** put excessive work on ourselves for defining the requirements associated with the power subsystem. This is a special situation considering the requirements from ECE 4900 and what is expected of Senior Projects
+   * Some requirements that need to be identified by the Subcontractor should answer:
+      * will the system control battery so it will shut off before draining?
+      * what DC inputs should we be considering?
+
+### Requirements Feedback
+
+* (1-5) Prioritization is very important. Never going to be perfect, so focus on those higher priorities.
+* Consider the use of "may" or other language to specify requirements that are rather desired features or possibilities
+* What we previously identified as "environmental factors" are actually **operational conditions**, update accordingly
+* ^ That being said, add an **environmental factors** section which addresses:
+   * sand ingress
+   * temperature
+   * humidity
+   * *may* want to consider FCC requirements in this discussion
+* For **power requirements**
+   * Specify *power quality* i.e. not "ringy", no "overshoot"
+   * Safety, Weight, and Size are important factors
+   * While researching *batteries*, include:
+      * lifespan
+      * implications of full discharge
+      * can it sit out in the sun?
+   * Set the standards, including those for *safety*
+ 
+### Research Suggestions
+
+* Recognize that the weight of the system will be determined by three components:
+   * battery
+   * speaker driver magnets
+* We had previously identified **deliverable associated with each research suggestion**:
+   * one powerpoint slide which summarizes research
+   * within this slide, identify the associated **key assumptions** and **key performance characteristics**
+* In order to *start formulating the subsystem diagrams*, **this deliverable** should include:
+   * an initial high-level diagram of the relvant subsystem
+* **concern: Bluetooth Streaming may not be possibly**... Can we explore alternative technologies?
+   * Free-air optical transmission is possible... but lose the standards, lose the Commercial Off-The-Shelf (COTS) support
+      * Omnidirectional IR Blaster
+      * Would become a project in and of itself
+   * **Look into LiFi** - is there anything to learn from this?
+   * Transmitting at different frequencies? ISM Bands?
+   * In any case, the question becomes *How to strike a balance with existing systems that can be easily integrated into our desing with minimal effort*
+
+### Modeling Suggestions
+
+* We will eventually break down the **High-level diagram** into subsystems... This can start taking place during requirements research^
+   * For the "Control" block, this may include a *microcontroller* for managing customer inputs
+* We must **keep all modeling efforts uniform** so that when our individual work is put together, it looks coherent
+   * should not have inhomogenous diagrams
+   * may want to specify standards for creating models
+   * should use the same tool for creating these across all of our work
+      * draw.io is good for drawings
+      * on-shape is good for physical, 3D models
+      * should have integration into Google Docs for easy collaboration
+* For **Speaker drivers**
+   * there are a lot of parameters you can ignore... or that will be determined by other constraints ( size, weight, cost )
+   * You may want to consider 3D printing enclosures
+   * Consider competing products: weight, size, drivers
+   * could look into Bose's complex enclosure which achieves a "larger" effect in a smaller form factor.
+
 ## October 13, 2020 - Technical Advisor Meeting: Incorporating Subcontractor and Prioritizing Requirements
 
 ### Incorporating Subcontractor
